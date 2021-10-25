@@ -1,4 +1,4 @@
-I’m @FedericoRiva, an ecologist and conservation biologist. I am interested in spatial analysis and biodiversity science. I am currently a Mitacs Accelerate Fellow at the Montreal Insectarium and Carleton University.
+I’m @FedericoRiva. I am a conservation scientist. Currently working on a Mitacs Accelerate Fellowship at the Montreal Insectarium and Carleton University.
 
 
 <!---
